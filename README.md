@@ -37,6 +37,6 @@
 - Side project in spare time
     + No, plan to get a certificate (company require)
 - Why you want to left current job?
-    + Fun, Duong ask
+    + Try other opportunity, Duong ask
 - What would you hope to achieve in the first six months after being hired?
     + Focus .NET backend, fullstack web developer
