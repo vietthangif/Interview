@@ -1,4 +1,4 @@
-## Base
+## His base
 - Now: Java (2 months), Lead backend
 - .NET 2 years
 - Tech stack:
