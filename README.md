@@ -1,20 +1,42 @@
-## Question
+## Base
+- Now: Java (2 months), Lead backend
+- .NET 2 years
+- Tech stack:
+    + Java8, Oracle, Monolithic system
+- API guy, CRUD + business logic only
+- Strongest about SQL (store procedure)
+- Review code other members: code convention, basic failure.
+- Dont know authenticate, authorization in his system
+- Frontend html, css, js: a bit
 
 ### Technique questions
-1. Project structure: MVC, MVVM, layer
-2. Design pattern
-3. Memory management
-4. Concurrency: Thread, process, streaming
+- Project structure: MVC, MVVM, Layers
+    + Layers: service -> business -> DAO -> database: basic knowledge
+- Memory management
+    + No
+- Concurrency: Thread, process, streaming
+    + No
+- Network protocol works
+    + Http only
+- Container
+    + No
+- CI/CD
+    + No
+- Unit Test
+    + A bit
+- Duong's question: insert 1000 rows. 
+    + Wrong (dunno lol im confused about his solution)
+- Duong's question: search faster, use index. 
+    + Right
+- Dong's question: Increase reading speed: use cache. 
+    + Right
 
 ### Common questions
-1. How do you keep your technology skills current?
-2. What online resources do you use to help you do your job?
-3. Explain in simple terms
-- System architecture
-- Security
-- Algorithm
-5. Hardest job ever done
-7. Side project in spare time
-8. Why you want to left current job?
-9. What would you hope to achieve in the first six months after being hired?
-10. Company process: benefit and drawbacks
+- Hardest job ever done
+    + Bug cannot reproduce on staging environment: have to export database, no unit test again.
+- Side project in spare time
+    + No, plan to get a certificate (company require)
+- Why you want to left current job?
+    + Fun, Duong ask
+- What would you hope to achieve in the first six months after being hired?
+    + Focus .NET backend, fullstack web developer
